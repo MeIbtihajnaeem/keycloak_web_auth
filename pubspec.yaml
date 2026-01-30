@@ -1,9 +1,9 @@
 name: keycloak_web_auth
 description: Web-only Keycloak authentication for Flutter Web using OAuth2/OIDC Authorization Code + PKCE.
 version: 0.1.0
-homepage: https://github.com/<you>/keycloak_web_auth
-repository: https://github.com/<you>/keycloak_web_auth
-issue_tracker: https://github.com/<you>/keycloak_web_auth/issues
+homepage: https://github.com/MeIbtihajnaeem/keycloak_web_auth
+repository: https://github.com/MeIbtihajnaeem/keycloak_web_auth
+issue_tracker: https://github.com/MeIbtihajnaeem/keycloak_web_auth/issues
 
 environment:
   sdk: ^3.9.0
